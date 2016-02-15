@@ -23,7 +23,7 @@ Le présent document référencera ces discussions et les éventuels liens qui s
     * [Refills](http://refills.bourbon.io/), composants pour Sass/Bourbon
 * [Stylus](http://stylus-lang.com/)
   * [Kouto Swiss](http://kouto-swiss.io/), framework pour Stylus
-   
+
 ### Compilateurs graphiques
 
 * [Prepros](https://prepros.io/), gratuit (avec pub), multi-plateformes
@@ -32,3 +32,15 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 ## ITCSS
 
 * [Présentation des concepts de ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss) (slides).
+
+### Tableau récapitulatif de ITCSS
+
+| Niveau | Nom de la couche | Fonction |
+| :----: | :--------------- | :------- |
+| 1 | Settings | Variables globales |
+| 2 | Tools | Mixins globaux, functions & outils |
+| 3 | Generic | Style de remise à zéro (reset, normalize…) |
+| 4 | Base | Éléments bruts |
+| 5 | Objects | Éléments de mise en forme non-cosmétique | 
+| 6 | Components | Design des composants, morceaux d'UI |
+| 7 | Trumps | Styles spécifiques à un élément |
