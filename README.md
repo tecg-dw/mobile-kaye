@@ -44,3 +44,12 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 | 5 | Objects | Éléments de mise en forme non-cosmétique | 
 | 6 | Components | Design des composants, morceaux d'UI |
 | 7 | Trumps | Styles spécifiques à un élément |
+
+* * *
+
+## Design Mobile
+
+### Guidelines 
+
+* [Guidelines iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
+* [Guidelines Android](http://developer.android.com/design/index.html)
