@@ -53,3 +53,10 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 
 * [Guidelines iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 * [Guidelines Android](http://developer.android.com/design/index.html)
+
+### Wireframing
+
+* [sneakpeek it](http://sneakpeekit.com/), une série de feuilles vierge à télécharger puis imprimer pour faire des wireframes.
+* [UI stencils](http://www.uistencils.com/), boutique d'accessoires pour le wireframing.
+* [The 20 best wireframe tools](http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302), une liste (récente) d'apps pour faire des wireframes.
+
