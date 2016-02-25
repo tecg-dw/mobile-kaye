@@ -60,3 +60,12 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 * [UI stencils](http://www.uistencils.com/), boutique d'accessoires pour le wireframing.
 * [The 20 best wireframe tools](http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302), une liste (récente) d'apps pour faire des wireframes.
 
+* * *
+
+## Divers
+
+### dotfiles
+
+Pour ceux qui s'intéressent à la problématique des `.dotfiles`, l'un des articles fondateurs à ce sujet est le suivant : [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789).  
+Le colossal repository [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) regroupe toute une série de liens vers des outils, articles et références sur le sujet, ainsi qu'une liste de repos d'utilisateurs confirmés, pour inspiration.  
+Enfin, pour info, mes dotfiles sur trouvent sur le repo [leny/pwendok](https://github.com/leny/pwendok).
