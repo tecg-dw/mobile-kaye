@@ -66,6 +66,10 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 * [iOS 9 Design Kit](http://ozzik.co/freebies/ios9kit)
 * [Android Design Kit](https://www.uxpin.com/lollipop-ui-kit.html)
 
+### Useful links
+
+* [2015 UI Trends](http://fr.slideshare.net/UXAlive/2015-ui-trends)
+
 * * *
 
 ## Divers
