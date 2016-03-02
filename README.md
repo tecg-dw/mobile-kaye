@@ -61,6 +61,11 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 * [The 20 best wireframe tools](http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302), une liste (récente) d'apps pour faire des wireframes.
 * [BLOKK](http://blokkfont.com/), une police pour simuler de longs blocs de texte.
 
+### Design Kits
+
+* [iOS 9 Design Kit](http://ozzik.co/freebies/ios9kit)
+* [Android Design Kit](https://www.uxpin.com/lollipop-ui-kit.html)
+
 * * *
 
 ## Divers
