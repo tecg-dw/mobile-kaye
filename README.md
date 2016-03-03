@@ -60,6 +60,7 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 * [UI stencils](http://www.uistencils.com/), boutique d'accessoires pour le wireframing.
 * [The 20 best wireframe tools](http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302), une liste (récente) d'apps pour faire des wireframes.
 * [BLOKK](http://blokkfont.com/), une police pour simuler de longs blocs de texte.
+* [Wbehostinghub/glyphs](http://www.webhostinghub.com/glyphs/), un immense (2000+) set d'icônes, gratuites, pour vos wireframes et designs.
 
 ### Design Kits
 
