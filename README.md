@@ -66,6 +66,7 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 
 * [iOS 9 Design Kit](http://ozzik.co/freebies/ios9kit)
 * [Android Design Kit](https://www.uxpin.com/lollipop-ui-kit.html)
+* [Android StickerSheet](https://www.google.com/design/spec/resources/sticker-sheets-icons.html#sticker-sheets-icons-components)
 
 ### Useful links
 
