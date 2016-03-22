@@ -76,6 +76,8 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 
 ## Divers
 
+* [cdto...](https://github.com/jbtule/cdto): un petit utilitaire qui ajoute un bouton dans le Finder (pour mac uniquement, donc), qui permet d'ouvrir une fenêtre de terminal directement dans le dossier courant.
+
 ### dotfiles
 
 Pour ceux qui s'intéressent à la problématique des `.dotfiles`, l'un des articles fondateurs à ce sujet est le suivant : [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789).  
